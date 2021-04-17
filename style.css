@@ -14,6 +14,7 @@
 	background-size:  cover;
 	background-position: center center;
 	position: relative;
+	background: linear-gradient(#0c0a0c98, rgba(76, 0, 255, 0.459));
 	background-repeat: repeat;
 }
 .nav-area{
